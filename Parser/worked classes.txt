@@ -1,0 +1,557 @@
+['https://restolife.kz/restoran/agosto/', 'https://restolife.kz/restoran/laureate-grand-cafe/', 'https://restolife.kz/restoran/shukran/', 'https://restolife.kz/centr-otdykha/alma-hills/', 'https://restolife.kz/restoran/prasad/', 'https://restolife.kz/restoran/milk-honey/', 'https://restolife.kz/restoran/praha/', 'https://restolife.kz/restoran/bitanga/', 'https://restolife.kz/restoran/tole-bi/reviews/', 'https://restolife.kz/restoran/est-xinkali-pit-vino/', 'https://restolife.kz/restoran/chaixona-shaxar/', 'https://restolife.kz/restoran/batyr/', 'https://restolife.kz/restoran/xmelnicza-na-navoi/', 'https://restolife.kz/restoran/tango/', 'https://restolife.kz/restoran/sunroof/', 'https://restolife.kz/restoran/pioner/', 'https://restolife.kz/bar/wine-gallery/', 'https://restolife.kz/restoran/the-monkey/reviews/', 'https://restolife.kz/restoran/narsharab/reviews/', 'https://restolife.kz/restoran/pinta-bar-grill-mall-aport/', 'https://restolife.kz/restoran/shashlykoff-grill-amp-bar-dostyk/', 'https://restolife.kz/restoran/kish-mish/', 'https://restolife.kz/restoran/uch-lyagan-city/', 'https://restolife.kz/restoran/big-chefs/reviews/', 'https://restolife.kz/restoran/bassiani/', 'https://restolife.kz/restoran/fumo/reviews/', 'https://restolife.kz/restoran/grand-zina/', 'https://restolife.kz/restoran/dijon/', 'https://restolife.kz/restoran/ztb/', 'https://restolife.kz/restoran/sapori-veri/reviews/', 'https://restolife.kz/restoran/oblaka/', 'https://restolife.kz/restoran/forest/', 'https://restolife.kz/restoran/rodnya/', 'https://restolife.kz/restoran/lyubov-i-golubi/reviews/', 'https://restolife.kz/kofeinia/double-coffee-na-gogol/reviews/', 'https://restolife.kz/restoran/rabad/', 'https://restolife.kz/bar/sherwood/', 'https://restolife.kz/restoran/bochonok-na-dostyk/', 'https://restolife.kz/restoran/zags/', 'https://restolife.kz/restoran/origus/reviews/', 'https://restolife.kz/restoran/ribaj/', 'https://restolife.kz/restoran/xan-kebab/reviews/', 'https://restolife.kz/restoran/del-papa-dostyk-plaza/', 'https://restolife.kz/restoran/xachapuri-i-vino/', 'https://restolife.kz/restoran/grill-house/reviews/', 'https://restolife.kz/restoran/grill-house-mega/', 'https://restolife.kz/restoran/azia-mama/reviews/', 'https://restolife.kz/restoran/chajxana-navat-makataeva/', 'https://restolife.kz/restoran/meziret/reviews/', 'https://restolife.kz/restoran/dapanji-bahyt/reviews/', 'https://restolife.kz/restoran/ziyafet-fish-house/', 'https://restolife.kz/restoran/cherish/', 'https://restolife.kz/restoran/aquarium/reviews/', 'https://restolife.kz/restoran/la-jia-gourmet/', 'https://restolife.kz/restoran/salt/', 'https://restolife.kz/restoran/aprel/', 'https://restolife.kz/restoran/almaata/', 'https://restolife.kz/restoran/tyubetejka-abylaj-xana/', 'https://restolife.kz/restoran/china-room/', 'https://restolife.kz/restoran/rumi-trcz-moskva/', 'https://restolife.kz/restoran/mountain-pub-aport-alatau/', 'https://restolife.kz/restoran/chajxana-navat-esentai/', 'https://restolife.kz/restoran/chito-grito-na-rozybakieva/', 'https://restolife.kz/restoran/alycha-samal/', 'https://restolife.kz/restoran/sababa/', 'https://restolife.kz/restoran/georgian-house/', 'https://restolife.kz/restoran/le-resto/', 'https://restolife.kz/restoran/truecost/reviews/', 'https://restolife.kz/bar/alfa/', 'https://restolife.kz/restoran/balu/', 'https://restolife.kz/restoran/ostrowok/reviews/', 'https://restolife.kz/restoran/adagio-restaurant/', 'https://restolife.kz/restoran/japanese-grill-esentai-city/', 'https://restolife.kz/restoran/mediterranean-restaurant/', 'https://restolife.kz/restoran/tavaduri/reviews/', 'https://restolife.kz/restoran/atmosfera/', 'https://restolife.kz/restoran/hanok/', 'https://restolife.kz/restoran/maharaja/reviews/', 'https://restolife.kz/restoran/everyday/', 'https://restolife.kz/restoran/seven-bar-and-restaurant/', 'https://restolife.kz/restoran/la-rioja/', 'https://restolife.kz/restoran/georgian-restaurant-esentai-city/', 'https://restolife.kz/restoran/mado/', 'https://restolife.kz/cafe/confetti/', 'https://restolife.kz/restoran/kenrai/', 'https://restolife.kz/restoran/vera-i-vake/reviews/', 'https://restolife.kz/restoran/arcobaleno/reviews/', 'https://restolife.kz/restoran/tal-cafe-restaurant/', 'https://restolife.kz/restoran/nino/reviews/', 'https://restolife.kz/restoran/aroma-indian-restaurant/', 'https://restolife.kz/bar/grelka/', 'https://restolife.kz/restoran/turan/', 'https://restolife.kz/restoran/satori/', 'https://restolife.kz/restoran/chajxana-navat-na-sejfullina/', 'https://restolife.kz/restoran/fornarina-by-gradik/reviews/', 'https://restolife.kz/restoran/frau-irma/reviews/', 'https://restolife.kz/restoran/odessa/', 'https://restolife.kz/restoran/caviar/', 'https://restolife.kz/restoran/vremya-est-pit/reviews/', 'https://restolife.kz/restoran/nautica/', 'https://restolife.kz/restoran/salaam-namaste/', 'https://restolife.kz/restoran/ab-restoran/', 'https://restolife.kz/bar/1gog/reviews/', 'https://restolife.kz/restoran/river-park/', 'https://restolife.kz/sushi/tanuki/reviews/', 'https://restolife.kz/restoran/horoshiy-god/reviews/', 'https://restolife.kz/restoran/qaimaq/reviews/', 'https://restolife.kz/restoran/honey-honey/', 'https://restolife.kz/restoran/svet/', 'https://restolife.kz/restoran/chachapuri/reviews/', 'https://restolife.kz/restoran/capriccio/reviews/', 'https://restolife.kz/restoran/malvazija/', 'https://restolife.kz/restoran/stolichnyj/', 'https://restolife.kz/restoran/cicek-mangal-3/', 'https://restolife.kz/restoran/ferma/reviews/', 'https://restolife.kz/restoran/alma-ata/reviews/', 'https://restolife.kz/restoran/ocean-basket-na-panfilova/', 'https://restolife.kz/restoran/thali/', 'https://restolife.kz/restoran/telavi/reviews/', 'https://restolife.kz/cafe/pushkin/reviews/', 'https://restolife.kz/restoran/shurpa/', 'https://restolife.kz/restoran/jz-peking-duck/reviews/', 'https://restolife.kz/restoran/saint-pierre/reviews/', 'https://restolife.kz/restoran/afisha/reviews/', 'https://restolife.kz/restoran/navat/reviews/', 'https://restolife.kz/restoran/dadiani/reviews/', 'https://restolife.kz/restoran/pech/reviews/', 'https://restolife.kz/restoran/zmood/', 'https://restolife.kz/restoran/lariss-ivannu-xachu-na-rozybakieva/reviews/', 'https://restolife.kz/restoran/pinta-moskva/', 'https://restolife.kz/restoran/ataman/', 'https://restolife.kz/restoran/chak-chak/reviews/', 'https://restolife.kz/restoran/marakanda/reviews/', 'https://restolife.kz/restoran/hansan/', 'https://restolife.kz/restoran/la-taverna/', 'https://restolife.kz/restoran/beefeater/', 'https://restolife.kz/restoran/shashlykoff-grill-bar/reviews/', 'https://restolife.kz/restoran/bombay-to-beirut/', 'https://restolife.kz/restoran/prime-house/', 'https://restolife.kz/restoran/zira/', 'https://restolife.kz/restoran/sydyk/reviews/', 'https://restolife.kz/banketnyi-zal/river-hall/reviews/', 'https://restolife.kz/restoran/nurym/', 'https://restolife.kz/restoran/mangal-house/', 'https://restolife.kz/restoran/as-timian/', 'https://restolife.kz/restoran/grill-na-kok-tobe/', 'https://restolife.kz/restoran/farm-house/', 'https://restolife.kz/restoran/inzhu/reviews/', 'https://restolife.kz/restoran/arbuz/', 'https://restolife.kz/restoran/pekinskaya-utka/', 'https://restolife.kz/restoran/palladium/reviews/', 'https://restolife.kz/restoran/arsha/reviews/', 'https://restolife.kz/restoran/borgo-antico/', 'https://restolife.kz/restoran/la-fondue/reviews/', 'https://restolife.kz/restoran/assalam/reviews/', 'https://restolife.kz/restoran/kaspij/', 'https://restolife.kz/restoran/nur-el/reviews/', 'https://restolife.kz/restoran/abaj/reviews/', 'https://restolife.kz/restoran/bambarbiya-kergudu/', 'https://restolife.kz/restoran/astra/', 'https://restolife.kz/restoran/asel/reviews/', 'https://restolife.kz/restoran/dvoryanskij/reviews/', 'https://restolife.kz/restoran/traktir-medved-na-satpaeva/', 'https://restolife.kz/bar/venezia/', 'https://restolife.kz/restoran/vanilnoe-nebo/reviews/', 'https://restolife.kz/restoran/ocean-basket/reviews/', 'https://restolife.kz/restoran/qazaq-restaurant/', 'https://restolife.kz/restoran/thai/', 'https://restolife.kz/restoran/ermitazh/reviews/', 'https://restolife.kz/restoran/the-grill/', 'https://restolife.kz/restoran/kishlak-na-dostyk/', 'https://restolife.kz/restoran/meat/', 'https://restolife.kz/restoran/tarxun/', 'https://restolife.kz/restoran/brasserie/', 'https://restolife.kz/restoran/vaxtanguri/reviews/', 'https://restolife.kz/banketnyi-zal/minari/', 'https://restolife.kz/restoran/sakvoyazh/', 'https://restolife.kz/restoran/marina-et-and-balik/', 'https://restolife.kz/restoran/dickens-restaurant-bar/', 'https://restolife.kz/banketnyi-zal/xodzha-na-kok-tobe/', 'https://restolife.kz/restoran/fortune/', 'https://restolife.kz/restoran/valleta/', 'https://restolife.kz/restoran/pirate/reviews/', 'https://restolife.kz/restoran/qingdao-mamyr/reviews/', 'https://restolife.kz/restoran/zolotoj-drakon/', 'https://restolife.kz/restoran/saraj-bar-shymbulak-resort-hotel/reviews/', 'https://restolife.kz/restoran/shax-na-satpaeva/', 'https://restolife.kz/centr-otdykha/barkytbel/reviews/', 'https://restolife.kz/banketnyi-zal/agaiyn/', 'https://restolife.kz/banketnyi-zal/imperator/reviews/', 'https://restolife.kz/restoran/schaste/', 'https://restolife.kz/restoran/schaste-na-abaya/reviews/', 'https://restolife.kz/restoran/vip-gruzinka/', 'https://restolife.kz/banketnyi-zal/jasmine/reviews/', 'https://restolife.kz/restoran/ak-aul/', 'https://restolife.kz/restoran/chashnagiri-lesnaia-skazka/reviews/', 'https://restolife.kz/restoran/royal-palace/', 'https://restolife.kz/centr-otdykha/besini/', 'https://restolife.kz/restoran/ambrosia/', 'https://restolife.kz/restoran/manana/reviews/', 'https://restolife.kz/restoran/favor-meat-club/', 'https://restolife.kz/restoran/royal-cafe/', 'https://restolife.kz/restoran/duman/reviews/', 'https://restolife.kz/restoran/glasshouse/', 'https://restolife.kz/restoran/amure/reviews/', 'https://restolife.kz/restoran/salon-vkusa/', 'https://restolife.kz/restoran/craft-kitchen-bar/', 'https://restolife.kz/restoran/altyn-aula/reviews/', 'https://restolife.kz/restoran/europolis/', 'https://restolife.kz/restoran/oranzhevyi-verbliud/reviews/', 'https://restolife.kz/restoran/kamelot/', 'https://restolife.kz/restoran/sandal/', 'https://restolife.kz/restoran/tandir/', 'https://restolife.kz/restoran/gelato-paradais/', 'https://restolife.kz/restoran/arial/', 'https://restolife.kz/restoran/sneg-restaurant-hotel/reviews/', 'https://restolife.kz/restoran/primavera/', 'https://restolife.kz/restoran/belvedere-grill-room/', 'https://restolife.kz/restoran/bosphorus-restaurant/', 'https://restolife.kz/restoran/hmelnica/reviews/', 'https://restolife.kz/restoran/bavaria-beer-house/reviews/', 'https://restolife.kz/banketnyi-zal/tau-mergen/', 'https://restolife.kz/restoran/gornyi/', 'https://restolife.kz/restoran/avlabar/', 'https://restolife.kz/restoran/friuli/', 'https://restolife.kz/banketnyi-zal/sulu-tor/reviews/', 'https://restolife.kz/restoran/shakh/reviews/', 'https://restolife.kz/restoran/dinastia/', 'https://restolife.kz/restoran/dushes/reviews/', 'https://restolife.kz/restoran/sadu-v-mega-2/', 'https://restolife.kz/restoran/sadu-concept-store/', 'https://restolife.kz/restoran/worldhotel-saltanat-almaty/', 'https://restolife.kz/restoran/uiut/', 'https://restolife.kz/restoran/issyk/', 'https://restolife.kz/restoran/han/', 'https://restolife.kz/restoran/otrar/', 'https://restolife.kz/restoran/roma-caffe/reviews/', 'https://restolife.kz/restoran/china-town/reviews/', 'https://restolife.kz/restoran/altyn-adam/', 'https://restolife.kz/restoran/fellini/reviews/', 'https://restolife.kz/restoran/uch-liagan/reviews/', 'https://restolife.kz/restoran/la-barca-fish-wine/', 'https://restolife.kz/restoran/shavlego/', 'https://restolife.kz/restoran/cosmo-sancak/reviews/', 'https://restolife.kz/restoran/edelveis/', 'https://restolife.kz/restoran/khinkalnaia/reviews/', 'https://restolife.kz/restoran/the-float/reviews/', 'https://restolife.kz/restoran/le-dome/', 'https://restolife.kz/restoran/versal/reviews/', 'https://restolife.kz/restoran/samal/reviews/', 'https://restolife.kz/restoran/ozyurt-na-tulebaeva/', 'https://restolife.kz/bar/barstol-kok/', 'https://restolife.kz/restoran/melange/', 'https://restolife.kz/restoran/sancak/', 'https://restolife.kz/restoran/prussia/', 'https://restolife.kz/restoran/tirol/reviews/', 'https://restolife.kz/restoran/pivovaroff/reviews/', 'https://restolife.kz/restoran/wamboo/reviews/', 'https://restolife.kz/banketnyi-zal/miras/', 'https://restolife.kz/restoran/georgia-film/reviews/', 'https://restolife.kz/restoran/persona-grata/reviews/', 'https://restolife.kz/restoran/sulu/', 'https://restolife.kz/restoran/cicek-mangal-na-nusupbekov/', 'https://restolife.kz/restoran/cicek-mangal-na-zhibek-zholy/reviews/', 'https://restolife.kz/restoran/sultans-restaurant/', 'https://restolife.kz/restoran/grecheskaja-taverna/', 'https://restolife.kz/restoran/comein-na-pushkina/reviews/', 'https://restolife.kz/restoran/anel/', 'https://restolife.kz/restoran/pugasov/reviews/', 'https://restolife.kz/restoran/cheshskij-dvor/reviews/', 'https://restolife.kz/restoran/renion-hills-uno/', 'https://restolife.kz/restoran/mimino-v-orbit1/', 'https://restolife.kz/restoran/mimino-v-gornyj-gigant/', 'https://restolife.kz/banketnyi-zal/panorama/', 'https://restolife.kz/centr-otdykha/bastau/reviews/', 'https://restolife.kz/restoran/alazany/reviews/', 'https://restolife.kz/pitstseriia/tomato/reviews/', 'https://restolife.kz/pitstseriia/tomato-na-mendikulova/reviews/', 'https://restolife.kz/pitstseriia/tomato-na-tole-bi/reviews/', 'https://restolife.kz/restoran/caffe-del-teatro/', 'https://restolife.kz/restoran/asian-barbeque/', 'https://restolife.kz/restoran/lun-shan/', 'https://restolife.kz/banketnyi-zal/tilek-tas/', 'https://restolife.kz/kofeinia/double-coffee/reviews/', 'https://restolife.kz/restoran/sunset-cafe/', 'https://restolife.kz/restoran/bochonok-na-zhandosova/', 'https://restolife.kz/restoran/bochonok-mkr-orbita3/', 'https://restolife.kz/restoran/bochonok-na-furmanova/', 'https://restolife.kz/restoran/nasreddin-hodja/', 'https://restolife.kz/restoran/east/reviews/', 'https://restolife.kz/restoran/aist-na-abaya/', 'https://restolife.kz/restoran/keruen/', 'https://restolife.kz/restoran/assorti-shymbulak/', 'https://restolife.kz/restoran/assorti-kazan/', 'https://restolife.kz/restoran/assorti-kozlovna/', 'https://restolife.kz/restoran/assorti-mega/', 'https://restolife.kz/restoran/lotus/', 'https://restolife.kz/restoran/limony-zhjoltye/', 'https://restolife.kz/restoran/munich/', 'https://restolife.kz/restoran/vechnoe-nebo/reviews/', 'https://restolife.kz/restoran/dastarkhan/', 'https://restolife.kz/restoran/del-mar/reviews/', 'https://restolife.kz/restoran/belyj-slon/reviews/', 'https://restolife.kz/steakhouse/ziyafet-steak-house/reviews/', 'https://restolife.kz/restoran/pirosmani/', 'https://restolife.kz/restoran/turandot-na-dostyk/reviews/', 'https://restolife.kz/restoran/turandot-na-abaya/reviews/', 'https://restolife.kz/restoran/turandot-na-furmanova/', 'https://restolife.kz/restoran/turandot-na-zharokova/', 'https://restolife.kz/restoran/the-noodles/', 'https://restolife.kz/restoran/wagon/', 'https://restolife.kz/restoran/pinta-na-altynsarina/reviews/', 'https://restolife.kz/restoran/pinta-v-mega-alma-ata/reviews/', 'https://restolife.kz/restoran/pinta-na-auezova/reviews/', 'https://restolife.kz/restoran/pinta-na-nazarbaeva/', 'https://restolife.kz/restoran/pinta-bar-kazahstan/reviews/', 'https://restolife.kz/restoran/pinta-v-trk-adk/reviews/', 'https://restolife.kz/restoran/pinta-na-vesnovke/reviews/', 'https://restolife.kz/restoran/pinta-mega-park/reviews/', 'https://restolife.kz/restoran/princessa-na-tulebaeva/', 'https://restolife.kz/restoran/princessa-na-bogenbai-batyr/reviews/', 'https://restolife.kz/restoran/coffeeroom-trattoria/reviews/', 'https://restolife.kz/restoran/parmigiano/', 'https://restolife.kz/restoran/line-brew-mix/', 'https://restolife.kz/restoran/vista/', 'https://restolife.kz/restoran/villa-dei-fiori/reviews/', 'https://restolife.kz/restoran/entrecote/reviews/', 'https://restolife.kz/restoran/bellagio-restaurant/reviews/', 'https://restolife.kz/restoran/chalet/reviews/', 'https://restolife.kz/restoran/korean-house-v-mega-alma-ata/', 'https://restolife.kz/restoran/korean-house-na-kabanbai-batyr/', 'https://restolife.kz/restoran/korean-house-na-gogolya/', 'https://restolife.kz/restoran/korean-house-v-esentai-mall/', 'https://restolife.kz/bar/shakespeare/reviews/', 'https://restolife.kz/steakhouse/crudo/reviews/', 'https://restolife.kz/steakhouse/crudo-na-abaia/reviews/', 'https://restolife.kz/restoran/del-papa-na-kabanbai-batyr/reviews/', 'https://restolife.kz/restoran/del-papa-na-dostyk/', 'https://restolife.kz/restoran/del-papa-na-bukhar-zhyrau/', 'https://restolife.kz/restoran/del-papa-v-mkr-orbit3/']
+
+AGOSTO Кухня: Итальянская, Европейская
+Laureate Grand Cafe Кухня: Европейская, Морепродукты
+SHUKRAN Кухня: Ливанская
+Alma Hills Кухня: Восточная, Европейская
+Prasad Кухня: Индийская, Вегетарианская
+Milk & Honey Кухня: Европейская
+Praha Кухня: Чешская
+Bitanga Кухня: Украинская
+
+
+Есть Хинкали, Пить Вино Кухня: Грузинская
+Чайхона Шахар Кухня: Восточная
+BATYR Кухня: Восточная, Европейская, Узбекская
+Хмельница на Навои Кухня: Восточная, Грузинская, Европейская
+TanGO Кухня: Европейская, Грузинская, Кавказская, Восточная
+SunRoof Кухня: Европейская
+ПИОНЕР Кухня: Авторская, Европейская
+Wine Gallery Кухня: Авторская
+
+
+
+
+
+Пинта в Aport Mall Кухня: Европейская, Американская, Гриль меню
+ШашлыкоFF Grill & Bar Достык Кухня: Гриль меню, Американская, Кавказская, Европейская
+Киш Миш Кухня: Восточная, Европейская, Китайская
+Уч Ляган City Кухня: Восточная, Узбекская
+
+
+
+BASSIANI Кухня: Грузинская, Восточная, Европейская
+
+
+Grand Zina Кухня: Европейская
+DIJON Кухня: Французская
+ZTB Кухня: Европейская
+
+
+
+
+
+Oblaka Кухня: Европейская
+Forest Кухня: Европейская
+Родня Кухня: Кавказская, Европейская, Грузинская, Итальянская, Японская
+Любовь и голуби 
+Заведение
+ ,  
+
+
+
+
+
+Double Coffee на Гоголя 
+
+
+
+
+
+Rabad Кухня: Восточная, Европейская, Кавказская
+Palermo Кухня: Европейская
+Бочонок на пр. Достык Кухня: Европейская, Немецкая, Кавказская
+ЗАГС Кухня: Авторская, Европейская, Итальянская, Азиатская
+
+
+
+
+
+
+Рибай Кухня: Европейская
+
+
+
+
+Del Papa Dostyk Plaza Кухня: Итальянская
+Хачапури и Вино Кухня: Грузинская
+
+
+
+
+
+
+
+Grill House Mega Alma-Ata Кухня: Гриль меню, Европейская
+
+
+
+
+
+Чайхана NAVAT Макатаева Кухня: Восточная, Узбекская
+
+
+
+
+
+
+
+
+Ziyafet Fish House Кухня: Турецкая, Американская, Европейская
+CHERISH Кухня: Европейская, Итальянская
+
+
+
+
+La Jia Gourmet Кухня: Китайская
+Salt Кухня: Восточная, Европейская
+Апрель Кухня: Европейская, Восточная, Корейская
+Alma Ata Кухня: Европейская, Азиатская
+Тюбетейка Абылай хана Кухня: Узбекская, Восточная
+China ROOM Кухня: Китайская
+RUMI ТРЦ Moskva Кухня: Узбекская, Восточная
+Mountain Pub «Aport-Alatau» Кухня: Европейская
+Чайхана NAVAT Esentai Кухня: Восточная, Узбекская
+Чито-Грито на Розыбакиева Кухня: Грузинская
+Vmeste Кухня: Восточная, Европейская
+Sababa Кухня: Ближневосточная
+Якорь Кухня: Грузинская
+Le Resto Кухня: Французская, Европейская
+
+
+
+
+
+ALFA Кухня: Европейская
+Balu Кухня: Европейская
+
+
+
+
+Adagio Restaurant Кухня: Итальянская
+Chok Havali Кухня: Японская
+Mediterranean restaurant Esentai City Кухня: Средиземноморская
+
+
+
+
+Атмосфера Кухня: Европейская
+Hanok Кухня: Корейская
+
+
+
+
+Everyday Кухня: Европейская
+Seven Bar And Restaurant Кухня: Европейская
+LA RIOJA Кухня: Испанская
+Georgian Restaurant Esentai City Кухня: Грузинская
+MADO Кухня: Турецкая
+Confetti Кухня: Европейская, Азиатская, Восточная
+KenRai Кухня: Европейская, Восточная
+
+
+
+
+
+
+
+
+
+
+
+
+TAL Cafe & Restaurant Кухня: Восточная, Европейская
+
+
+
+
+
+
+Aroma Indian Restaurant Кухня: Индийская
+Grelka Кухня: Европейская
+Turan Кухня: Восточная, Европейская
+SATORI Кухня: Корейская, Паназиатская, Японская
+Чайхана NAVAT пр. Сейфуллина Кухня: Восточная, Узбекская, Казахская
+
+
+
+
+
+
+Одесса Кухня: Европейская
+Caviar Кухня: Средиземноморская, Турецкая, Европейская
+
+
+
+Nautica Кухня: Европейская, Японская, Паназиатская
+Salaam Namaste Кухня: Индийская, Грузинская, Европейская, Вегетарианская
+АБ ресторан Кухня: Авторская, Европейская, Средиземноморская
+
+
+
+
+
+River Park Кухня: Гриль меню, Европейская
+
+
+
+
+
+
+
+
+Honey-Honey Кухня: Итальянская, Авторская, Европейская
+Свет Кухня: Авторская, Европейская
+
+
+
+
+
+
+
+
+
+Malvazija Кухня: Европейская
+Толстый Jimmy Кухня: Авторская, Европейская
+Çiçek Mangal №3 Кухня: Турецкая, Гриль меню
+
+
+
+
+
+
+
+
+
+Ocean Basket Panfilova Кухня: Морепродукты, Средиземноморская, Японская
+Thali Кухня: Индийская, Ливанская
+
+
+
+
+Renion Park Кухня: Восточная, Европейская
+
+
+
+
+ZMood Кухня: Европейская
+
+Пинта в ТРЦ MOSKVA Кухня: Европейская
+Атаманъ Кухня: Европейская, Русская
+
+
+
+
+
+
+Хансан Кухня: Корейская, Европейская, Восточная
+Leon Кухня: Европейская, Средиземноморская
+Beefeater Кухня: Гриль меню, Европейская
+
+
+Bombay to Beirut Кухня: Индийская, Ливанская, Восточная
+Prime House Кухня: Европейская
+Sabroso Кухня: Узбекская
+
+
+
+
+
+
+Нурым Кухня: Восточная, Турецкая, Итальянская
+Mangal House Кухня: Гриль меню
+As-Timian Кухня: Авторская, Вегетарианская
+Sololaki Кухня: Грузинская
+Farm House Кухня: Европейская
+
+
+
+
+Арбуз Кухня: Восточная, Европейская
+Пекинская утка Кухня: Китайская
+
+
+
+
+
+Borgo Antico Кухня: Итальянская
+
+
+
+
+
+Каспий Кухня: Восточная, Европейская, Кавказская
+
+
+
+
+Бамбарбия Кергуду Кухня: Грузинская, Казахская, Европейская
+Astra Кухня: Европейская, Казахская
+
+
+
+
+
+Трактиръ Медведь на Сатпаева Кухня: Русская, Европейская
+ZQvadrat Кухня: Европейская
+
+
+
+
+
+
+
+QazaQ restaurant Кухня: Казахская
+Thai Кухня: Тайская, Японская
+
+
+
+The Grill Кухня: Европейская
+Кишлак на Достык Кухня: Восточная, Европейская, Казахская, Узбекская
+&Meat Кухня: Гриль меню
+Тархун Кухня: Восточная, Грузинская, Европейская
+Brasserie Кухня: Европейская, Казахская
+
+
+
+
+Минари Кухня: Восточная, Европейская, Кавказская
+Саквояж Кухня: Европейская
+Marina et and balik Кухня: Средиземноморская, Морепродукты, Турецкая
+Dickens Restaurant & Bar Кухня: Европейская, Итальянская
+Ходжа на Кок-Тобе Кухня: Восточная, Европейская, Казахская
+Fortune Кухня: Европейская, Казахская
+Valleta Кухня: Европейская, Восточная
+
+
+
+
+
+
+
+
+
+JERUIYQ Кухня: Китайская
+
+
+Шах на Сатпаева Кухня: Восточная, Казахская, Европейская
+
+
+
+
+
+Агайын Кухня: Восточная, Европейская
+
+
+
+Счастье в Бутаковке Кухня: Европейская
+
+
+
+
+Грузинка Горный Гигант Кухня: Грузинская, Европейская
+
+
+
+
+Ак Аул Кухня: Казахская
+
+
+Royal Palace Кухня: Европейская
+Sarbaz Park Кухня: Восточная, Европейская
+Ambrosia Кухня: Европейская, Индийская, Турецкая
+
+
+
+Favor City View Кухня: Европейская, Китайская, Японская
+Royal Cafe Кухня: Европейская
+
+Holiday Inn Кухня: Европейская
+
+
+
+
+Салон вкуса Кухня: Средиземноморская, Европейская, Итальянская
+Craft Kitchen & Bar  Кухня: Европейская, Мексиканская
+
+
+Europolis Кухня: Европейская, Кавказская, Казахская
+
+
+
+Камелот Кухня: Американская, Европейская, Мексиканская
+Сандал Кухня: Восточная, Европейская
+БЕШiktas Кухня: Казахская, Восточная
+Mirissima Кухня: Европейская, Итальянская
+Ариал Кухня: Грузинская, Европейская, Казахская
+
+
+
+
+Primavera Кухня: Итальянская, Японская
+Belvedere Grill Room Кухня: Европейская, Казахская
+Bosphorus restaurant Кухня: Турецкая
+
+
+
+
+
+Мерген Кухня: Казахская
+Горный Кухня: Европейская
+Авлабар Кухня: Грузинская, Европейская, Кавказская
+Friuli Кухня: Итальянская
+
+
+
+
+Dinastia Кухня: Европейская, Итальянская
+
+
+
+
+SADU в Mega Almaty Кухня: Итальянская, Японская, Авторская
+SADU Concept Store Кухня: Итальянская, Японская, Авторская
+Worldhotel Saltanat Almaty Кухня: Европейская
+Уют Кухня: Восточная, Европейская, Казахская
+Иссык Кухня: Восточная, Европейская, Казахская
+HAN Кухня: Китайская
+Отрар Кухня: Восточная, Европейская, Казахская
+
+
+
+
+Алтын Адам Кухня: Восточная, Европейская, Казахская
+
+
+
+La Barca Кухня: Средиземноморская
+Shavlego Кухня: Грузинская
+
+
+
+Эдельвейс Кухня: Восточная, Европейская
+
+
+
+
+Le Dome Кухня: Европейская, Итальянская, Японская
+
+
+Ozyurt на Тулебаева Кухня: Турецкая
+Barstol & Kok Кухня: Скандинавская
+Меланж Кухня: Грузинская, Европейская, Кавказская, Казахская
+Sancak Кухня: Турецкая
+Brass Pub Кухня: Европейская, Немецкая, Русская
+
+
+
+
+Мирас Кухня: Восточная, Европейская, Казахская
+
+
+
+
+Сулу Кухня: Восточная, Европейская
+Çiçek Mangal №2 Кухня: Турецкая, Гриль меню
+
+
+R. Ssultan Кухня: Европейская, Казахская
+Греческая Таверна Кухня: Европейская, Греческая
+
+
+
+
+Grapes Кухня: Восточная, Европейская, Казахская
+
+
+
+
+
+Renion Hills , UNO Кухня: Европейская, Казахская
+Мимино Орбита Кухня: Грузинская
+Мимино Горный Гигант Кухня: Грузинская
+Panorama Кухня: Восточная, Европейская
+
+
+
+
+
+Caffe del Teatro Кухня: Казахская, Европейская, Итальянская
+ASIAN BarBeQue Кухня: Корейская, Паназиатская, Японская, Гриль меню
+Altai Gold Кухня: Восточная, Европейская
+Тилек тас Кухня: Европейская, Казахская, Турецкая
+
+
+
+
+Sunset Art & Kitchen Кухня: Европейская, Итальянская, Паназиатская
+Бочонок на Жандосова Кухня: Европейская, Немецкая, Кавказская
+Бочонок в мкр Орбита 3 Кухня: Европейская, Немецкая, Кавказская
+Бочонок по Назарбаева Кухня: Европейская, Немецкая, Кавказская
+Ходжа Насреддин Кухня: Узбекская, Европейская
+
+
+Аист на Абая Кухня: Европейская, Итальянская
+Керуен Кухня: Европейская, Казахская, Русская
+Assorti Shymbulak Кухня: Европейская, Итальянская, Русская, Японская
+Assorti Kazan Кухня: Восточная, Японская
+Assorti Residence Кухня: Европейская, Итальянская, Русская, Чешская, Японская
+Assorti Mega Кухня: Европейская, Итальянская, Русская, Японская
+Lotus Кухня: Китайская
+Лимоны жёлтые Кухня: Итальянская
+Munchen Кухня: Немецкая, Грузинская, Кавказская, Европейская
+
+Дастархан Кухня: Восточная, Европейская
+
+
+
+Пиросмани Кухня: Грузинская, Европейская
+
+
+
+
+
+
+Turandot & Bolognese по Назарбаева Кухня: Китайская
+Turandot & Bolognese на Жарокова Кухня: Китайская
+Noodles Кухня: Азиатская, Гриль меню, Европейская, Турецкая, Японская
+У Друзей Кухня: Европейская, Восточная
+
+
+
+
+
+
+Пинта на Назарбаева Кухня: Европейская, Американская, Гриль меню
+
+
+
+
+Принцесса на Тулебаева Кухня: Китайская
+
+
+
+
+Parmigiano Кухня: Итальянская, Морепродукты
+Line Brew Mix Кухня: Китайская, Паназиатская, Американская
+VISTA Кухня: Европейская, Средиземноморская, Итальянская, Турецкая, Индийская
+
+
+
+
+
+Korean House в Mega Alma-Ata Кухня: Корейская, Паназиатская, Японская
+Korean House на Кабанбай батыра Кухня: Корейская, Паназиатская, Японская
+Korean House на Гоголя Кухня: Корейская, Паназиатская, Японская
+Korean House в Esentai Mall Кухня: Корейская, Паназиатская, Японская
+
+
+
+
+
+
+
+Del Papa на Достык Кухня: Итальянская
+Del Papa на Бухар жырау Кухня: Итальянская
+Del Papa в мкр-н. Орбита-3 Кухня: Итальянская
+
